@@ -1,11 +1,11 @@
-# Seja bem vindo ao meu Perfil! 💻  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
+# Welcome to my Profile! 💻  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
 
 ### Sobre mim :
 
-- 🏢 Estagiário na SEDUC do Estado de Rôndonia;
-- 🎓 Estudante de Sistemas de Informação na [Faculdade Sapiens;](https://faculdadesapiens.edu.br/)
-- 💻 Desenvolvedor Web;
-- 👨🏽‍💻 Atualmente focado em aprender C# e Javascript
+- 🏠 Freelance Web Developer;
+- 🎓 CUSAT, Kochi
+- 💻 MERN Stack Developer
+- 👨🏽‍💻 Currently focused on learning Blockchain development
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -15,14 +15,14 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrix40&theme=tokyonight" width="45%"/>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrix40&theme=tokyonight&layout=compact" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AB7zz&theme=tokyonight&layout=compact" width="45%" />
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 #### Linguagens e Ferramentas
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="40px">
+<img src="[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU)" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="40px">

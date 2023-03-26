@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhi7zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhi7zz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ab7zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ab7zz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14032173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ab7zz" height="30" width="40" /></a>
 <a href="https://instagram.com/ab7zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab7zz" height="30" width="40" /></a>
 <a href="https://medium.com/@abhinavcv007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhinavcv007" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@abhinavcv5086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@abhinavcv5086" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@abhinavcv5086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@abhinavcv5086" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhinavcv007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavcv007" height="30" width="40" /></a>
 </p>
 

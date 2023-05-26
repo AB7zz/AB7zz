@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Solidity<br><br>📝 I write articles on https://medium.com/@abhinavcv007<br><br>💬 Ask me about MERN, Firebase, D3.JS<br><br>📫 How to reach me abhinavcv007@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1znbJ-PIdyC-sC9zksmCZ1wn3j11kWhm8/view?usp=share_link
+🌱 I’m currently learning Solidity<br><br>💬 Ask me about MERN, Firebase, D3.JS<br>
 
 
 ## 🌐 Socials:

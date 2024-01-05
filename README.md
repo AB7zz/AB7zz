@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DevOps<br><br>💬 Ask me about MERN, Firebase, D3.JS<br>
+🌱 I’m currently learning Web3, Cryptography & DevOps<br><br>💬 Ask me about anything related to web!<br>
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web3, Cryptography & DevOps<br><br>💬 Ask me about anything related to web!<br>
+🌱 I’m currently learning Blockchain Development<br><br>💬 Ask me about anything related to web!<br>
 
 
 ## 🌐 Socials:

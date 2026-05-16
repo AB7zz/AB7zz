@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently building Lucidly<br><br>💬 Ask me about anything related to web!<br>
+🌱 I'm currently building [Lucidly](https://getlucidly.app)<br><br>💬 Ask me about anything related to web!<br>
 
 
 ## 🌐 Socials:
